@@ -11911,6 +11911,10 @@ repos:
     group: deepin-sysdev-team
     info: Nintendo Switch emulator/debugger
 
+  - repo: zix #main
+    group: deepin-sysdev-team
+    info: A lightweight C library of portability wrappers and data structures
+
   - repo: zarr #main
     group: deepin-sysdev-team
     info: chunked, compressed, N-dimensional arrays for Python
